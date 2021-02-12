@@ -1,4 +1,4 @@
-#Help can be found here
+# Help can be found here
 
 Since the material parameters (T7075-T6) have been included in the code, the code can directly predict fatigue life from this material.
 "constant_loading.mat" is included constant loading cases. Random loading case: 6 uniaxial loading cases and 5 multiaxial loading cases. 
@@ -19,8 +19,9 @@ Proportional_Felix_350kline_edited_cwt
 Non_Proportional_FALLSTAFF_f2500L
 Non_Proportional_FALLSTAFF_edited_cwt
 
+Procedure
 For the first step, the loading file needs to be input at line #20. (load('file_name.mat'))
-The second step: put the material parameter by fitting tension and torsion loading data, respectly. Next, input yield strength at line #32 (sig_y)
+The second step: put the material parameter by fitting tension and torsion loading data, respectively. Next, input yield strength at line #32 (sig_y)
 When these steps are done, the model can be run to predict fatigue life.
 
-The result can be verify with excel file (al-7076-t6.xlsx)
+The result can be verified with excel file (al-7076-t6.xlsx)
