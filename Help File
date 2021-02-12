@@ -4,7 +4,11 @@ Since the material parameters (T7075-T6) have been included in the code, the cod
 "constant_loading.mat" is included constant loading cases. Random loading case: 6 uniaxial loading cases and 5 multiaxial loading cases. 
 
 The file list:
-Uniaxial
+Main code: 
+"stress_based_prediction_constant" for constant loading prediction
+"stress_based_prediction_random" for random loading prediction
+
+Uniaxial data
 Felix_450Mpa
 FALLS450+35
 Felix_450+35Mpa#2
@@ -12,7 +16,7 @@ Felix_450+35MPa_edited_cwt
 Linearmax489
 Linearmax489_edited_cwt
 
-Multiaxial
+Multiaxial data
 Proportional_Felix
 Proportional_Felix_350kline
 Proportional_Felix_350kline_edited_cwt
