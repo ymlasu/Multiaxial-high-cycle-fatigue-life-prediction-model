@@ -1,4 +1,4 @@
-Help can be found here
+#Help can be found here
 
 Since the material parameters (T7075-T6) have been included in the code, the code can directly predict fatigue life from this material.
 "constant_loading.mat" is included constant loading cases. Random loading case: 6 uniaxial loading cases and 5 multiaxial loading cases. 
