@@ -14,4 +14,4 @@ Authors: Haoyang Wei hwei20@asu.edu, Yongming Liu yongming.liu@asu.edu
 
 Prognostic Analysis and Reliability Assessment Lab, Arizona State University. https://paralab.engineering.asu.edu/
 
-Editer: Shih-Chuan Tien  last date: 02/11/2021 
+Revise by Shih-Chuan Tien  last date: 02/11/2021 
